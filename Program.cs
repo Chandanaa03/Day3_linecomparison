@@ -14,7 +14,7 @@ namespace linecomparison_day3
 
             // lineequity.line_equity();
 
-            //equitycomparison.comparingline();
+            equitycomparison.comparingline();
 
             
         }
