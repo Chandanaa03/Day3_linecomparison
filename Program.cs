@@ -7,14 +7,14 @@ namespace linecomparison_day3
         static void Main(string[] args)
         {
 
-            //Console.WriteLine("Welcome to Line comparison");
+            Console.WriteLine("Welcome to Line comparison");
             //double input = Convert.ToDouble(Console.ReadLine());
 
             //linelength.lengthofline();
 
             // lineequity.line_equity();
 
-            equitycomparison.comparingline();
+            //equitycomparison.comparingline();
 
             
         }
